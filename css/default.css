@@ -103,6 +103,7 @@ img {
 }
 
 section { padding: 100px 0; overflow: hidden; }
+#shadow-host-companion { padding: 0px; }
 
 .container {
   width: 100%;
