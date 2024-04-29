@@ -159,8 +159,8 @@
   justify-content: center; 
 }
 
-.container { padding-right: 5px; padding-left: 5px;}
-.bg-header .hero-wrapper { width: 430px; }
+.container { padding-right: 1px; padding-left: 1px;}
+.bg-header .hero-wrapper { width: 440px; }
 .bg-header .hOne{ font-size: 55px; }
 .bg-header .hero-wrapper h1 { font-size: 35px; }
 #message { margin: 20px 0 0 0; }
